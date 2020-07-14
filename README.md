@@ -9,3 +9,5 @@
 [AlumniMeetup_TommnyJones](https://memulder.github.io/AppliedMachineLearningPublic/AlumniMeetup_TommnyJones)
 
 [Project One](https://memulder.github.io/AppliedMachineLearningPublic/Project_One)
+
+[July 14, response](https://memulder.github.io/AppliedMachineLearningPublic/7.14.20LectureResponse)
