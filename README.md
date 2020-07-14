@@ -2,8 +2,8 @@
 
 [July 7, response](https://memulder.github.io/AppliedMachineLearningPublic/7.7.20LectureResponse)
 
-[July 8, response](https://github.com/memulder/AppliedMachineLearningPublic/blob/master/7.8.20LectureResponse.md)
+[July 8, response](https://memulder.github.io/AppliedMachineLearningPublic/7.8.20LectureResponse)
 
-[July 9, response](https://github.com/memulder/AppliedMachineLearningPublic/edit/master/7.9.20LectureResponse.md)
+[July 9, response](https://memulder.github.io/AppliedMachineLearningPublic/7.9.20LectureResponse)
 
-[AlumniMeetup_TommnyJones](https://github.com/memulder/AppliedMachineLearningPublic/blob/master/AlumniMeetup_TommnyJones.md)
+[AlumniMeetup_TommnyJones](https://memulder.github.io/AppliedMachineLearningPublic/AlumniMeetup_TommnyJones)
