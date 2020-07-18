@@ -15,3 +15,12 @@ This was the final image I produced:
 This design was not what I initially envisioned but like in any endevor in data science in trying to solve one problem I accidentally stumbled upon a fix that, while unexpected, made my code and product all that much better. 
 
 For my final design I put the stylized image in grayscale and added a few additional elements to really make the shirt worthy of the Jump Start Program. 
+![Front1](https://user-images.githubusercontent.com/67922294/87840721-1f48a100-c86f-11ea-971f-95489e8e671b.png)
+![pocket](https://user-images.githubusercontent.com/67922294/87840740-37202500-c86f-11ea-900b-e412c22daceb.png)
+![Back1](https://user-images.githubusercontent.com/67922294/87840756-4b642200-c86f-11ea-9d42-cd549d132888.png)
+
+![Front2](https://user-images.githubusercontent.com/67922294/87841127-27a1db80-c871-11ea-8599-b1eddd6d5599.png)
+![Back2](https://user-images.githubusercontent.com/67922294/87841139-39837e80-c871-11ea-9f8e-ae4684e68f48.png)
+
+![front3](https://user-images.githubusercontent.com/67922294/87841416-fe824a80-c872-11ea-8876-954d33247fd1.png)
+![back3](https://user-images.githubusercontent.com/67922294/87841402-f0342e80-c872-11ea-9c4b-98790534a3a6.png)
