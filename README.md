@@ -13,3 +13,7 @@
 [July 14, response](https://memulder.github.io/AppliedMachineLearningPublic/7.14.20LectureResponse)
 
 [July 15, response](https://memulder.github.io/AppliedMachineLearningPublic/7.15.20LectureResponse)
+
+[July 20, response](https://memulder.github.io/AppliedMachineLearningPublic/7.20.20LectureResponse)
+
+[July 21, response](https://memulder.github.io/AppliedMachineLearningPublic/7.21.20LectureResponse)
