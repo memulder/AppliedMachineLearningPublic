@@ -18,4 +18,4 @@
 
 [July 21, response](https://memulder.github.io/AppliedMachineLearningPublic/7.21.20LectureResponse)
 
-[AlumniMeetup_2](https://github.com/memulder/AppliedMachineLearningPublic/blob/master/AlumniMeetup2)
+[AlumniMeetup_2](https://memulder.github.io/AppliedMachineLearningPublic/AlumniMeetup2)
