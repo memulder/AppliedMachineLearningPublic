@@ -1,40 +1,15 @@
+The last Jump Start Data Science Alumni Meetup was with Ben Arancibia and Jasper Lu.
+
 ### Ben Arancibia – Data Scientist, GSK
+Mr. Arancibia is currently working at a pharmacutical company, GSK, which is based in the UK. He graduated from William and Mary in 2011 as an international relations and environmental policy double major, though he focused on the tech side (economics, stata, GIS) of both of those majors. He went straight into the workforce after graduated as a GIS analyst but later recieved a graduate certificate in GIS from VCU and a got a masters degree in data science from CUNY. At the start of his career Mr. Arancibia worked mostly in the field of GIS but later he moived into management consulting. Currently he is working to implement machine algorithms for business-use data (meaning he spends a lot of his time sifting through data and trying to figure out how to best communicate his findings.)
 
-pharmacutical company based in teh uk, headquarter in philly
-
-2011 - internatinal relation and environmental policy - focused on tech side (econ, stata, gis)
-
-Grad certificate in gis in VCU, GIs analyst
-
-GIs developer, working on fed contracts for post office, route optimization, then im mangament consulting
-
-masters in data science from CUNY
-worked in booz allen hamilton workign with cyber securtiy
-
-implementing machine algortiths for business use data, works with big data - lots of sifting
-
-covids impact in pharma: how do we report the soundness of our experiements to regulators to make it understandable and truthful, old way of thinking - two groups in biostats groups in  stataticians and clininacal programmers, now there needs to be no seperation, able to do quick to market stats without statisticians with algorithms
 
 ### Jasper Lu – Head of Data Science, TripAdvisor
-2011 - econ and math
+Mr. Lu is currently transitioning between jobs though most recently he was working as a data scientists at TripAdvisor. Mr. Lu graduated from William and Mary in 2011 with a double major in economics and mathematics. He then immediately went on to get his masters degree from Boston University and found that his math skills weren't as strong as he had thought and also that he did not want to work in finace (it was too cut-throat). He started off working as a pricing analyst at Liberty Mutual, but he found that insurance was too slow-moving and regulated. As a result he decided to move to a startup (Wayfair) which allowed him to work with lots of different groups within the company. After a few years with Wayfair he moved to TripAdvisor but was laid off due to the Coronavirus crisis. Luckily he found another job at Shopify, but he was able to provide us with valuable insight into the job market during this pandemic. 
 
-mathematical finance from BU masters
-learned he wasnt as good as math as he thought and he didnt really want to work in fiancnce - too cut throat
+### Advice/Insights
+Both Mr. Arancibia and Mr. Lu provided us with valuale advice and insights into the data science field. They described the typical interview process in the field of data science and impressed upon us the fact that companies are most interested in discerning how we are able to think critically and work through a project. Both encouraged us to know a coding language well and get as much expercience/practice with data science projects as possible (either through internships or things like Kaggle competitions) to help us stand out in the job market. They also highlighted the importance of networking when trying to find a job (as all of the other alumni have done as well). 
 
-pricing analyst in liberty mutual in boston for a couple years - learned about insurance field - slow and highly regulated - moved to wayfair (a startup at the time) to do pricing work, worked though different groups. aspects of the company 
+There were three insights that I found to be especially valuable for myself. The first was that Mr. Arancibia mentioned that in the field of data science "how well you solve a problem is a reflection of how good you are at googling a problem." Secondly, Mr. Arancibia also mentioned that he moved away from GIS into more machine learning because once he entered the workforce he realized that GIS wasn't everything, but rather that it was just one tool in his data science tool belt that is available to him when he is trying to solve a problem. This was especailly important to me because GIS/ cartography is the field I think I want to go into. Finally, they shared with us that when we are searching for a job in data science that knowing what type of data science you want to practice, how to communicate your results and how to make people care about the data analysis you are doing are of the utmost importance when it comes to succeeding at finding a job and later succeeding at a job. 
 
-moved to trip advisor heading up data science team for car, flights, trains
 
-moving to shopify after covid layoff
-
-Covid impact: a first uptake with people trying to return home, more certainty, more hiring, uptick in travel, invested in covid messaging/info
-
-Advice: kaggle conpetitions for exposure and practice, experience, critically think through challenges. knowing the type of data science you want to do and have your story crafted (academic or business work/analytical), know a language, be able to talk through a problem you have solved, network! - work on real projects, EXPERIENCE!
-
-interview process: how you think about problems, test on tech fundamentals, fit interview
-
-howh well you solve problems is how well you google problems
-
-GIS is a tool
-
-need to know how to communicate your results and make people care
