@@ -4,6 +4,7 @@ I initially went with a very small model that was modeled off of the basic regre
 
 ![P3MSE](https://user-images.githubusercontent.com/67922294/88489194-e8eede00-cf60-11ea-9dab-8c8ca76db58c.png)
 ![P3MAE](https://user-images.githubusercontent.com/67922294/88489250-3bc89580-cf61-11ea-901d-e13026dbbb09.png)
+![P3Loss](https://user-images.githubusercontent.com/67922294/88489303-9104a700-cf61-11ea-8ebf-b470859ecb7f.png)
 
 
 To predict the population values I used 
