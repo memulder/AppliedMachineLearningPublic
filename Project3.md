@@ -3,6 +3,7 @@ I modeled my project off of the linear regression tensorflow exercise that we di
 I initially went with a very small model that was modeled off of the basic regression model from the tensorflow exercise. Again, because this was a regression problem I used a reLu activation, especailly since I wanted my numerical output (i.e the population prediction) to be a positive number. On the very first run I only trained my model on 50 images with 5 epochs, a batch size of 5 and 10 steps per epoch. The results were...  I slowly bumped up each argument until I was able to train my computer on 1000 images, with 20 epochs, a batch size of 20 and 30 steps per epoch, I also included a validation split of 0.2, which resulted in a loss of 228.5554, a mae of 12.4009, a mse of 228.5554 and   a validation loss of 197.3452, a validation mae of 9.9374 , and a validation mse of 197.3452. For the test images the loss was 7131.8188 the mae was 75.8363 and the mse was 7131.8188.
 
 ![P3MSE](https://user-images.githubusercontent.com/67922294/88489194-e8eede00-cf60-11ea-9dab-8c8ca76db58c.png)
+![P3MAE](https://user-images.githubusercontent.com/67922294/88489250-3bc89580-cf61-11ea-901d-e13026dbbb09.png)
 
 
 To predict the population values I used 
