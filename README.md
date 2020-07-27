@@ -14,8 +14,12 @@
 
 [July 15, response](https://memulder.github.io/AppliedMachineLearningPublic/7.15.20LectureResponse)
 
+[Project Two](https://memulder.github.io/AppliedMachineLearningPublic/Project2)
+
 [July 20, response](https://memulder.github.io/AppliedMachineLearningPublic/7.20.20LectureResponse)
 
 [July 21, response](https://memulder.github.io/AppliedMachineLearningPublic/7.21.20LectureResponse)
 
 [AlumniMeetup_2](https://memulder.github.io/AppliedMachineLearningPublic/AlumniMeetup2)
+
+[Project Three](https://memulder.github.io/AppliedMachineLearningPublic/Project3)
