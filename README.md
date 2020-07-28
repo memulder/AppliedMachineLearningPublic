@@ -23,3 +23,5 @@
 [AlumniMeetup_2](https://memulder.github.io/AppliedMachineLearningPublic/AlumniMeetup2)
 
 [Project Three](https://memulder.github.io/AppliedMachineLearningPublic/Project3)
+
+[July 27, response](https://memulder.github.io/AppliedMachineLearningPublic/7.27.20LectureResponse)
