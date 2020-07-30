@@ -27,3 +27,5 @@
 [July 27, response](https://memulder.github.io/AppliedMachineLearningPublic/7.27.20LectureResponse)
 
 [July 28, response](https://memulder.github.io/AppliedMachineLearningPublic/7.28.20LectureResponse)
+
+[July 29, response](https://memulder.github.io/AppliedMachineLearningPublic/7.29.20LectureResponse)
